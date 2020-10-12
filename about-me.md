@@ -8,3 +8,5 @@ On my github you will see a few repositories:
 - A third repositiory for a generic Discord bot written in java utilizing their JD-API (JDA).
 
 If you would like to get in contact with me, feel free to send me an email at: **noahjorgensen.info@gmail.com** or at my primary email provided on my resume.
+
+Koi#0001 hi jack
